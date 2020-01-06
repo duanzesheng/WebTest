@@ -1,0 +1,13 @@
+{
+"companyName": "Test",
+"productName": "MegaFiersTest",
+"dataUrl": "TES.data.unityweb",
+"wasmCodeUrl": "TES.wasm.code.unityweb",
+"wasmFrameworkUrl": "TES.wasm.framework.unityweb",
+"TOTAL_MEMORY": 67108864,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
